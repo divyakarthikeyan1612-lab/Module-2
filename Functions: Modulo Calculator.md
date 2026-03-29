@@ -26,6 +26,7 @@ print("Remainder:", result)
 ```
 Enter first number: 15
 Enter second number: 4
+Remainder: 3
 ```
 ## Result
 the code is verified.
